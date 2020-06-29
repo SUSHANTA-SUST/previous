@@ -1,0 +1,107 @@
+.navbar{
+	background:#FFAE00;
+}
+
+.navbar-brand{
+	font-weight: 700;
+	color:indigo;
+}
+
+.collapse>.navbar-nav>.nav-item>a{
+	color:black;
+	font-weight: 600;
+}
+
+.collapse>.navbar-nav>.nav-item>a:hover{
+	display:inline-block;
+	background-color:#129FB3;
+}
+
+.btn-outline-success{
+	color:black;
+	font-weight: 500;
+}
+.btn-outline-success:hover{
+	background-color:#FFBA08;
+}
+.form-inline{
+	border:black;
+}
+.navbar-toggler-icon{
+	z-index: 10;
+}
+/*Carrosel CSS*/
+.carousel-item{
+	margin-left:.5%;
+}
+.carousel-indicators{
+	color: black;
+}
+h5{
+	color:black;
+}
+#h51{
+	color:white;
+}
+
+#h52{
+	color:black;
+}
+#h54{
+	font-weight: 800;
+}
+
+#firstslide{
+	font-weight:800;
+}
+
+#secondslide{
+	font-weight:800;
+}
+#thirdslide{
+	color:black;
+	font-weight: 800;
+}
+#fourthslide{
+	color:white;
+	font-weight: 800;
+}
+.embed-responsive {
+	display:inline-flex;
+	border: 0px solid red;
+}
+
+.row{
+	justify-content: center;
+}
+/*.card-img-top{
+	 border-radius: 100% !important;*/
+}
+h5{
+	color:#4B68B8;
+}
+
+#roundimage>img{
+	border-radius: 100% !important;
+}
+.card{
+	display:flex;
+		border:none;
+}
+.card>img{
+	 border-radius: 100% !important;
+}
+/*.rounded-circle {
+  border-radius: 100% !important;*/
+}
+
+.card-header{
+	background-color:#052CA3;
+}
+.container-fluid>.row>h1{
+	border-bottom: 2px solid black;
+	justify-content: center;
+	text-align:center;
+	color:blue;
+	opacity: 30%;
+}
